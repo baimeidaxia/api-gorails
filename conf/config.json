@@ -1,0 +1,7 @@
+{
+  "db.name":"sw_movies",
+  "db.port":"3306",
+  "db.host":"localhost",
+  "db.user":"root",
+  "db.password":"123321"
+}

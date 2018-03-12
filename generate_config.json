@@ -1,0 +1,16 @@
+{
+  "db.name":"so_db",
+  "db.port":"3306",
+  "db.host":"localhost",
+  "db.user":"root",
+  "db.password":"123321",
+
+  "generate.do.package":"do",
+  "generate.dao.package":"dao",
+  "generate.condition.package":"condition",
+  "generate.service.package":"service",
+  "generate.controller.package":"controllers",
+  "generate.router.package":"routers",
+  "generate.generatedir":"generate",
+  "generate.name":"api-gorails/generate"
+}
